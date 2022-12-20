@@ -1,1 +1,1 @@
-print("Hello Git!")
+print("'Martwa Papuga' to najlepszy skecz grupy Monty Pythona!")
